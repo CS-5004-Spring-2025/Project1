@@ -80,22 +80,12 @@ public class CommandArgsTest {
 
     @Test
     void testInsufficientArguments() {
-        String[] args = { VALID_WC_COMMAND };
-        CommandArgs commandArgs = new CommandArgs(args);
-
-        assertFalse(commandArgs.isCommandValid());
-        assertEquals(Constants.INVALID, commandArgs.getUnixCommand());
-        assertEquals(Constants.INVALID, commandArgs.getFilename());
+        // TODO: replace this code with your solution
     }
 
     @Test
     void testNoArguments() {
-        String[] args = {};
-        CommandArgs commandArgs = new CommandArgs(args);
-
-        assertFalse(commandArgs.isCommandValid());
-        assertEquals(Constants.INVALID, commandArgs.getUnixCommand());
-        assertEquals(Constants.INVALID, commandArgs.getFilename());
+        // TODO: replace this code with your solution
     }
 
     @Test

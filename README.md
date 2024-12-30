@@ -144,7 +144,9 @@ complete the questions outlined in [REFLECTION.md](REFLECTION.md).
 
 ## Grading Rubric
 
-The assignment is worth 25 points in total. 
+The assignment is worth 25 points in total. For criteria worth two points,
+partial credit may be awarded. For criteria worth one point, the solution must
+be completely correct to earn credit.
 
 | Criterion | Points | 
 | --------- | ------ |
