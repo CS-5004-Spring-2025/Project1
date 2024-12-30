@@ -142,3 +142,23 @@ You are required to complete a thoughtful and thorough reflection on your
 solution, your experience implementing it, and what you learned. You will
 complete the questions outlined in [REFLECTION.md](REFLECTION.md).
 
+## Grading Rubric
+
+The assignment is worth 25 points in total. 
+
+| Criterion | Points | 
+| --------- | ------ |
+| Passes test cases provided | 1 | 
+| Passes style check | 1 | 
+| `CommandArgs#checkNumberArgs` | 2 |
+| `CommandArgs#parseUnixCommand` | 2 |
+| `CommandArgs#isCommandValid` | 2 |
+| `CommandArgs#toString` | 2 |
+| `WC#countWords` | 2 |
+| `Tail#buildContent` | 2 |
+| `TailTest#testTailOnNonExistingFile` | 2 | 
+| `WcTest#testWordCountInNonExistingFile` | 2 | 
+| `CommandArgsTest#testInsufficientArguments` | 2 | 
+| `CommandArgsTest#testNoArguments` | 2 | 
+| Javadoc | 1 | 
+| Reflection | 2 | 
