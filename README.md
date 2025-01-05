@@ -2,7 +2,7 @@
 ### Due - Thursday, January 23, 4:50pm
 
 Assignment Link:
-[https://classroom.github.com/a/UpSHdlLR](https://classroom.github.com/a/UpSHdlLR)
+[]()
 
 In this assignment, you will implement a program that provides the functionality
 of the unix tools [wc](https://en.wikipedia.org/wiki/Wc_(Unix)) and [tail](https://en.wikipedia.org/wiki/Tail_(Unix)). 
