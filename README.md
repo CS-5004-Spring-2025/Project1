@@ -1,5 +1,5 @@
 # Project 1 - UnixTools
-### Due - Thursday, January 23, 4:50pm
+### Due - Monday, January 27, 11:59pm
 
 Assignment Link:
 [https://classroom.github.com/a/uGQSdtWr](https://classroom.github.com/a/uGQSdtWr)
